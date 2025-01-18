@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shree Devi Pharmacy</title>
+    <title>Shri Devi Pharmacy</title>
     <style>
         body {
             font-family: sans-serif;
@@ -62,7 +62,7 @@
 <body>
 
     <header>
-        <h1>Shree Devi Pharmacy</h1>
+        <h1>Shri Devi Pharmacy</h1>
         <div class="contact-info">
             <p>R.S.No. 1247, Shop No.4, Moolagoundampalayam, Kalyanasundaram Street, Erode-638 002</p>
             <p>Phone: <a href="tel:9840623083">9840623083</a>, <a href="tel:9444252192">9444252192</a></p>
@@ -90,7 +90,7 @@
         <section>
             <h2>About Us</h2>
             <p>
-                Shree Devi Pharmacy is your one-stop shop for all your healthcare needs in Erode. We are committed to providing our customers with quality products, exceptional service, and expert advice. Our friendly and knowledgeable staff is here to assist you in finding the right medications and healthcare products for you and your family.
+                Shri Devi Pharmacy is your one-stop shop for all your healthcare needs in Erode. We are committed to providing our customers with quality products, exceptional service, and expert advice. Our friendly and knowledgeable staff is here to assist you in finding the right medications and healthcare products for you and your family.
             </p>
         </section>
 
@@ -103,7 +103,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2025 Shree Devi Pharmacy. All rights reserved.</p>
+        <p>&copy; 2021 Shri Devi Pharmacy. All rights reserved.</p>
     </footer>
 
 </body>
